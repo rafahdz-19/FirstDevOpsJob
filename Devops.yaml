@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: service-devops
-        image: polyglotstudy/servicejava:latest
+        image: antony0618/polyglot-ms-account
         ports:
         - containerPort: 8080
 ---
